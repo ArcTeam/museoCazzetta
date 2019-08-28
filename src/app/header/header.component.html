@@ -1,0 +1,37 @@
+<div id="header" fxLayout="row">
+  <div class="headerLogo" fxLayoutAlign="center center">
+    <img src="./assets/img/logo.png" height="30px" alt="logo">
+  </div>
+  <div class="headerMenu" fxLayoutAlign="end center">
+    <button mat-button>home</button>
+    <button mat-button [matMenuTriggerFor]="floor1">piano 1</button>
+    <mat-menu #floor1="matMenu">
+      <button mat-menu-item>stanza 1 - Geologia</button>
+      <button mat-menu-item>stanza 2 - Paleontologia</button>
+      <button mat-menu-item>stanza 3 - Mesolitico</button>
+      <button mat-menu-item>stanza 4 - Mondeval</button>
+      <button mat-menu-item>stanza 5 - La sepoltura</button>
+      <button mat-menu-item>stanza 6 - Ricostruzione virtuale</button>
+    </mat-menu>
+    <button mat-button [matMenuTriggerFor]="floor2">piano 2</button>
+    <mat-menu #floor2="matMenu">
+      <button mat-menu-item>stanza 7 - Preistoria</button>
+      <button mat-menu-item>stanza 8 - Le steli</button>
+      <button mat-menu-item>stanza 9 - Il Medioevo</button>
+      <button mat-menu-item>stanza 10 - Età moderna</button>
+    </mat-menu>
+    <button mat-button [matMenuTriggerFor]="floor3">piano 3</button>
+    <mat-menu #floor3="matMenu">
+      <button mat-menu-item>Item 1</button>
+      <button mat-menu-item>Item 2</button>
+      <button mat-menu-item>Item 3</button>
+    </mat-menu>
+    <button mat-icon-button [matMenuTriggerFor]="setting">
+      <mat-icon>settings</mat-icon>
+    </button>
+    <mat-menu #setting="matMenu">
+      <button mat-menu-item>ita</button>
+      <button mat-menu-item>eng</button>
+    </mat-menu>
+  </div>
+</div>
