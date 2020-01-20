@@ -1,1 +1,2 @@
 mat-toolbar{justify-content: space-between;}
+mat-toolbar>.headerLogo{background-color: #fff; padding:12px;}
