@@ -1,0 +1,7 @@
+.testo{
+  position: relative;
+  margin-top: calc(60vh + 100px);
+  background-color: #fff;
+  padding:15px 25px;
+  z-index:100;
+}
