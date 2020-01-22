@@ -13,4 +13,13 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
 
+  svgToggle(val: string){
+    let all = document.getElementsByClassName('piano');
+    for (let i = 0; i < all.length; i++) {
+      all[i].setAttribute("class", 'hideFloor piano');
+    }
+    let checked = document.getElementById(val);
+    checked.setAttribute("class", 'showFloor piano');
+  }
+
 }

@@ -1,10 +1,7 @@
-.testo{
-  position: relative;
-  margin-top: 60vh;
-  background: #fff;
-  padding: 15px 25px;
-  z-index:100;
-  min-height: 60vh;
-}
-
+.testo{ position: relative; margin-top: 60vh; background: #fff; padding: 15px 25px; z-index:100; min-height: 60vh;}
 .testo>h2{display: block; border-bottom: 1px solid #000;}
+.testo>div{display: inline-block;margin:0;vertical-align: top;}
+.svgWrap{width:64%; margin-right:1vw !important;}
+.svgControl{width:34%;}
+.hideFloor{display:none !important;}
+.showFloor{display:inline !important;}
