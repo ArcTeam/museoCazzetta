@@ -1,16 +1,2 @@
-.carousel{
-  position:fixed;
-  top:80px;
-  left:0;
-  width: 100vw;
-  height:100vh;
-  z-index: 1;
-}
-.slide{
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+.carousel{ position:fixed; width: 100vw; height: 60vh; top:50px; left:0; z-index: 1;}
+.slide{ position: relative; width: 100vw; height: 60vh; background-position: center; background-repeat: no-repeat; background-size: cover;}

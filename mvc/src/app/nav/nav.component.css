@@ -2,7 +2,8 @@ mat-toolbar{
   position: fixed;
   top: 0;
   left: 0;
+  height:auto !important;
   z-index: 1000;
   justify-content: space-between;
 }
-mat-toolbar>.headerLogo{background-color: #fff; padding:12px;}
+mat-toolbar>.headerLogo{background-color: #fff; padding:5px;}
