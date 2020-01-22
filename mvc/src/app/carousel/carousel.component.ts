@@ -23,6 +23,7 @@ export class CarouselComponent implements OnInit {
     autoplayTimeout:5000,
     autoplayHoverPause:true,
     animateOut: 'fadeOut',
+    autoHeight: false,
     loop: true,
     mouseDrag: true,
     touchDrag: true,
