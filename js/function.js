@@ -18,9 +18,7 @@ $(document).ready(function() {
     })
   });
   $("[name=switchSvg]").on('click', function(){ loadSvg($(this).val()); })
-
 });
-
 function set_locale_to(locale) {
   if (locale){$.i18n().locale = locale;}
   $('body').i18n();
@@ -39,7 +37,6 @@ function loadSvg(name){
   $(".svgContainer").load(svg, function(){
     $("svg .hoverSvg").on('click', function(){
       let txt = $(this).data('testo');
-      console.log(txt);
       $(".roomDescription").html($.i18n(txt))
     });
   });
