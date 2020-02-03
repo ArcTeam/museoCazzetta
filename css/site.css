@@ -12,9 +12,9 @@ nav>div{display:inline-block;}
 nav>.headerLogo{background-color: #fff; padding:5px;}
 nav a{color:#fff;display:block;}
 nav a:hover{color: #fff; text-decoration: none;}
-.menuItem li { display: block; width:100px;float: left; padding: .7rem; position: relative; text-decoration: none; transition-duration: 0.5s;}
+.menuItem li { display: block; width:75px;float: left; padding: .7rem; position: relative; text-decoration: none; transition-duration: 0.5s;}
 .menuItem li:hover, .menuItem li:focus-within { background-color:#2e76cc; cursor: pointer;}
 .menuItem li:focus-within a { outline: none; }
 .menuItem ul li ul {visibility: hidden; opacity: 0; display: none; position: absolute;left:0; transition: all 0.5s ease; margin-top: .7rem; background-color: #2c3e50;}
 .menuItem ul li:hover > ul, .menuItem ul li:focus-within > ul, .menuItem ul li ul:hover, .menuItem ul li ul:focus {visibility: visible; opacity: 1; display: block;}
-.menuItem ul li ul li {width: 100px; border-bottom:1px solid #1f2831;}
+.menuItem ul li ul li {width: 75px; border-bottom:1px solid #1f2831;}

@@ -13,9 +13,8 @@ $(document).ready(function() {
     });
   });
   $("nav").load('assets/inc/nav.html', function(){
-    $(".load").on('click', function(e) {
+    $(".menuItem a").on('click', function(e) {
       e.preventDefault();
-      loadContent($(this).data("load"));
     })
   });
   $("[name=switchSvg]").on('click', function(){ loadSvg($(this).val()); })
