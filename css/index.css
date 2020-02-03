@@ -19,3 +19,6 @@ main{
   background: #fff;
   z-index:2;
 }
+
+svg .hoverSvg{cursor: pointer;transition: 0.5s;}
+svg .hoverSvg:hover{fill:red !important;}

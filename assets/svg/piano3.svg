@@ -1,0 +1,49 @@
+<svg id="svg2" width="100%" viewBox="0 0 828.14893 563.28809">
+  <g id="piano3" transform="translate(-13.777728,-323.66041)">
+    <path
+      id="path876-3-7"
+      style="display:inline;fill:none;stroke:#000000;stroke-width:1.57243288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      d="M 429.05336,561.44706 V 458.15733 H 333.1083 v 137.92103 h 95.94506 v -7.51722"/>
+    <path
+      id="path894-6-0"
+      style="display:inline;fill:none;stroke:#000000;stroke-width:1.57243288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      d="m 333.1083,773.64413 v -54.63618 h -16.49056 m -27.73412,-0.0674 -43.39182,2.5e-4 m -34.81803,0.0671 H 146.46519 V 886.16219 H 333.1083 v -84.95673"/>
+    <path
+      id="path920-6-3"
+      style="display:inline;fill:none;stroke:#000000;stroke-width:1.57243288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      d="m 210.67377,675.05919 c 0,-26.32465 0,-52.64931 0,-78.97396 -65.36995,-0.008 -130.739876,-0.003 -196.109826,0 V 719.00795 H 210.67377 v -15.85736"/>
+    <rect
+      id="rect1145-1-9"
+      style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.97152686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      width="94.331093"
+      height="136.28214"
+      x="333.88138"
+      y="458.95972" />
+    <rect
+      id="rect1147-8-7"
+      style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.97152686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      width="194.53741"
+      height="121.34414"
+      x="15.344019"
+      y="596.87756" />
+    <path
+      id="path1333"
+      style="fill:none;stroke:#000000;stroke-width:1.57243288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      d="M 429.05336,561.44706 V 458.15733 h 182.6187 V 825.25711 H 333.15494 l -0.0467,-24.0516 m 0,-27.56138 6e-5,-54.63618 h -16.49056 l -27.73412,-0.13463 -43.39182,0.0674 m -24.3777,0.0671 h -10.44033 l -0.0766,-15.85735 m 0,-28.09141 V 596.0851 h 218.35201 l 0.10409,-7.52409"/>
+    <rect
+      id="rect957-3-1"
+      class="hoverSvg"
+      data-testo="home.p3s1"
+      y="719.79224"
+      x="147.24889"
+      height="165.58655"
+      width="185.07582"
+      style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6418426;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+      id="path979"
+      class="hoverSvg"
+      data-testo="home.p3s2"
+      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      d="m 211.51649,596.92156 218.34938,0.003 -0.0161,-137.98042 181.02678,0.009 0.009,365.5045 -276.91518,0.011 -0.0497,-106.30908 -122.43823,-0.011 z"/>
+  </g>
+</svg>
