@@ -1,34 +1,29 @@
-<svg id="svg2" width="100%" viewBox="0 0 828.14893 563.28809">
-  <g id="piano1" transform="translate(-13.777728,-323.66041)">
-    <g id="g933" transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)">
+<svg width="100%" viewBox="0 0 828.14893 563.28809">
+  <g transform="translate(-13.777728,-323.66041)">
+    <g transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)">
       <path
-        id="path840"
-        d="M 857.51678,393.04039 V 341.13096 H 1003.807 V 696.40718 H 857.51678 v -51.90943 m 0,-17.52786 V 409.8941"
-        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        class="perimetro"
+        d="M 857.51678,393.04039 V 341.13096 H 1003.807 V 696.40718 H 857.51678 v -51.90943 m 0,-17.52786 V 409.8941"/>
       <path
-        id="path876"
-        d="m 702.64831,472.88136 h -21.92797 v 40.99576 h 61.01695 v -40.99576 h -21.45127"
-        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        class="perimetro"
+        d="m 702.64831,472.88136 h -21.92797 v 40.99576 h 61.01695 v -40.99576 h -21.45127" />
       <path
-        id="path920"
-        d="m 566.31356,513.87749 -88.1738,0.004 v 78.17359 h 124.71746 v -10.0846 m 0,-17.86493 v -50.22406 h -18.42925"
-        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        class="perimetro"
+        d="m 566.31356,513.87749 -88.1738,0.004 v 78.17359 h 124.71746 v -10.0846 m 0,-17.86493 v -50.22406 h -18.42925"/>
     </g>
     <rect
-      id="rect1145"
-      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.97152686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      class="serviceRoom"
       width="94.331062"
       height="62.84483"
       x="333.88138"
       y="532.39709" />
     <rect
-      id="rect1147"
-      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.97152686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      class="serviceRoom"
       width="194.53741"
       height="121.34414"
       x="15.344019"
       y="596.87756" />
-    <g id="g850">
+    <g>
       <rect
         id="p1s1"
         class="hoverSvg"
@@ -36,101 +31,109 @@
         y="325.24213"
         x="611.9043"
         height="557.06732"
-        width="228.44312"
-        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        width="228.44312"/>
     </g>
-    <g id="g857">
+    <g>
       <path
-        id="path864"
-        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="m 857.51678,409.8941 v 16.27115 H 584.42797 m -18.11441,0 H 553.4428 v -48.62288 h 304.07398 v 15.49802"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <rect
-        id="rect852"
+        id="p1s2"
         class="hoverSvg"
         data-testo="home.p1s2"
         y="382.49661"
         x="133.76291"
         height="74.848183"
-        width="476.53348"
-        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        width="476.53348"/>
     </g>
-    <g id="g864">
+    <g>
       <path
-        id="path878"
-        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="M 566.31356,426.16525 H 553.4428 v 87.71187 h 12.87076 m 18.11441,0 h 96.29237 v -40.99576 h 21.92797 m 17.63771,0 h 21.45127 V 426.16525 H 584.42797"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <path
-        id="path859"
+        id="p1s3"
         class="hoverSvg"
         data-testo="home.p1s3"
-        d="m 133.9117,594.31959 -0.13223,-135.32256 294.23602,0.16226 0.0608,70.22647 -96.71444,0.68326 0.12855,64.25057 z"
-        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99554276px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        d="m 133.9117,594.31959 -0.13223,-135.32256 294.23602,0.16226 0.0608,70.22647 -96.71444,0.68326 0.12855,64.25057 z"/>
     </g>
-    <g id="g884">
+    <g>
       <path
-        id="path854"
-        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="M 857.51678,626.96989 V 426.16525 H 741.73729 v 97.24577 m 0,17.63771 v 118.60381 h 115.77949 v -15.15479"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <rect
-        id="rect847-3"
+        id="p1s4"
         class="hoverSvg"
         data-testo="home.p1s4"
-        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.36028361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
         width="180.42041"
         height="365.46344"
         x="429.82678"
         y="459.04123" />
     </g>
-    <g id="g915">
+    <g>
       <path
-        id="path880"
-        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="m 741.73729,523.41102 v -9.5339 h -61.01695 v 113.09277 m 0,17.52786 v 15.15479 h 61.01695 V 541.04873"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <rect
-        id="rect847-3-6"
+        id="p1s5"
         class="hoverSvg"
         data-testo="home.p1s5"
         y="596.86353"
         x="333.98331"
         height="227.58797"
-        width="94.20166"
-        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.77565503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        width="94.20166"/>
     </g>
-    <g id="g935">
+    <g>
       <path
-        id="path902"
-        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="m 652.59534,592.05508 h -49.73812 v -10.0846 m 0,-17.86493 v -50.22843 h 77.86312 v 78.17796 h -10.48729"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <rect
-        id="rect847-3-6-7"
+        id="p1s6"
         class="hoverSvg"
         data-testo="home.p1s6"
-        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64148533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
         width="120.84745"
         height="121.34071"
         x="211.4669"
         y="596.87427" />
     </g>
-    <g id="g955">
+    <g>
       <path
-        id="path894"
-        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+        class="perimetro"
         d="m 680.72034,626.80135 v -34.74627 h -10.48729 m -17.63771,0 h -90.57203 v 106.30297 h 118.69703 v -54.02884"
         transform="matrix(1.5724329,0,0,1.5724329,-737.27874,-211.95892)" />
       <rect
-        id="rect847-3-6-7-5"
+        id="p1s7"
         class="hoverSvg"
         data-testo="home.p1s7"
         y="719.79706"
         x="147.25427"
         height="165.56422"
-        width="185.05453"
-        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.92725211;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        width="185.05453"/>
     </g>
+  </g>
+  <g transform="translate(1.6742984,31.326223)">
+    <text y="258.42917" x="702.47229">1</text>
+  </g>
+  <g transform="translate(-352.42191,-152.52886)">
+    <text y="258.44247" x="703.40717">2</text>
+  </g>
+  <g transform="translate(-443.52368,-45.791254)">
+    <text y="258.44247" x="703.40717">3</text>
+  </g>
+  <g transform="translate(-204.41457,69.323385)">
+    <text y="258.44247" x="703.40717">4</text>
+  </g>
+  <g transform="translate(-343.36742,138.20794)">
+    <text y="258.44247" x="703.40717">5</text>
+  </g>
+  <g transform="translate(-452.56093,85.09506)">
+    <text y="258.44247" x="703.40717">6</text>
+  </g>
+  <g transform="translate(-484.67002,230.12961)">
+    <text y="258.44247" x="703.40717">7</text>
   </g>
 </svg>

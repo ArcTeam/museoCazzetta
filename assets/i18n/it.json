@@ -26,5 +26,19 @@
   "home.p2s8":"piano 2 stanza 8<br><strong>nome stanza</strong><br>breve descrizione<br><a href='#' title='entra nella stanza'>entra nella stanza</a>",
   "home.p2s9":"piano 2 stanza 9<br><strong>nome stanza</strong><br>breve descrizione<br><a href='#' title='entra nella stanza'>entra nella stanza</a>",
   "home.p3s1":"piano 3 stanza 1<br><strong>nome stanza</strong><br>breve descrizione<br><a href='#' title='entra nella stanza'>entra nella stanza</a>",
-  "home.p3s2":"piano 3 stanza 2<br><strong>nome stanza</strong><br>breve descrizione<br><a href='#' title='entra nella stanza'>entra nella stanza</a>"
+  "home.p3s2":"piano 3 stanza 2<br><strong>nome stanza</strong><br>breve descrizione<br><a href='#' title='entra nella stanza'>entra nella stanza</a>",
+
+  "piano1.title":"Benvenuti al primo piano",
+  "piano2.title":"Benvenuti al secondo piano",
+  "piano3.title":"Benvenuti al terzo piano",
+
+  "stanza.s1":"stanza 1",
+  "stanza.s2":"stanza 2",
+  "stanza.s3":"stanza 3",
+  "stanza.s4":"stanza 4",
+  "stanza.s5":"stanza 5",
+  "stanza.s6":"stanza 6",
+  "stanza.s7":"stanza 7",
+  "stanza.s8":"stanza 8",
+  "stanza.s9":"stanza 9"
 }

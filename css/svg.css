@@ -1,0 +1,6 @@
+svg .serviceRoom{fill:#a7a7a7; fill-opacity:1; stroke:none;}
+svg .perimetro{fill:none; stroke:#000000; stroke-width:1; stroke-opacity:1}
+svg text{fill:#000000; fill-opacity:1; font-size:26px; font-family:'Nimbus Sans';}
+svg .hoverSvg{fill:#ffffff; fill-opacity:1; cursor: pointer; transition: 0.5s;}
+svg .hoverSvg:hover{fill:rgb(201, 217, 74);}
+.activeRoom{fill:rgb(219, 59, 59) !important; fill-opacity:1;}

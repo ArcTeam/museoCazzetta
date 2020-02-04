@@ -18,3 +18,5 @@ nav a:hover{color: #fff; text-decoration: none;}
 .menuItem ul li ul {visibility: hidden; opacity: 0; display: none; position: absolute;left:0; transition: all 0.5s ease; margin-top: .7rem; background-color: #2c3e50;}
 .menuItem ul li:hover > ul, .menuItem ul li:focus-within > ul, .menuItem ul li ul:hover, .menuItem ul li ul:focus {visibility: visible; opacity: 1; display: block;}
 .menuItem ul li ul li {width: 75px; border-bottom:1px solid #1f2831;}
+
+main{margin-top:50px;}

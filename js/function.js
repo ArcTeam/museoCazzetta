@@ -1,6 +1,5 @@
 $(document).ready(function() {
   if (!localStorage.getItem('lang')) { localStorage.setItem('lang','it'); }
-  loadSvg('piano1');
   $.i18n().load({
     'en': 'assets/i18n/en.json',
     'it': 'assets/i18n/it.json'
@@ -13,31 +12,19 @@ $(document).ready(function() {
     });
   });
   $("nav").load('assets/inc/nav.html', function(){
-    $(".menuItem a").on('click', function(e) {
+    $(".menuItem a[href='#']").on('click', function(e){
       e.preventDefault();
     })
   });
-  $("[name=switchSvg]").on('click', function(){ loadSvg($(this).val()); })
 });
 function set_locale_to(locale) {
   if (locale){$.i18n().locale = locale;}
   $('body').i18n();
 };
 
-function loadContent(page){
-  $("main").load("assets/inc/"+page+".html");
-  $('body').i18n();
-}
-
 function loadSvg(name){
-  $(".roomDescription").html('')
   const folder = 'assets/svg/';
   let file = name+".svg";
   let svg = folder+file;
-  $(".svgContainer").load(svg, function(){
-    $("svg .hoverSvg").on('click', function(){
-      let txt = $(this).data('testo');
-      $(".roomDescription").html($.i18n(txt))
-    });
-  });
+  $(".svgContainer").load(svg);
 }
